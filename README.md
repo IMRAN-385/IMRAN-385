@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+
+<img width="2000" height="600" alt="Beige   Black Geometric Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/6d5edc6c-6115-428a-b5ee-0a1abe2901c2" />
 
 <!--
 **IMRAN-385/IMRAN-385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
