@@ -12,7 +12,6 @@
 
 - 🌱 I’m currently learning **React JS, Next JS**  
 - 🔭 I’m currently working on :
-     
        • Digitools 
        • Git Issue Tracker
        • Job Tracker 
