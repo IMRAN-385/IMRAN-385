@@ -9,7 +9,6 @@
 
 
 </div>
-<h2 align="left">About Me :</h2>
 <table align="center" style="border-radius:10px">
   <tr>
     <td>
