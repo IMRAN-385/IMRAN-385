@@ -6,24 +6,31 @@
 <h2 align="left">About Me :</h2>
 <h3 align="center">I am a passionate Frontend Developer focused on building responsive and interactive web applications using modern web technologies.</h3>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
 
-<div>
+
+</div>
+<h2 align="left">About Me :</h2>
+<table align="center" style="border-radius:10px">
+  <tr>
+    <td>
 
 - 🌱 I’m currently learning **React JS, Next JS**  
 - 🔭 I’m currently working on :
+     
        • Digitools 
        • Git Issue Tracker
        • Job Tracker 
 - 💬 Ask me about **HTML , CSS (Tailwind) , JavaScript**  
 - 📫 How to reach me: **imranhimel385@gmail.com**
 
-</div>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" style="border-radius:10px"/>
+    </td>
+  </tr>
+</table>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" style="border-radius:10px"/>
-
-</div>
-<h2 align="center">📱Connect with me:</h2>
+<h2 align="center">📱Connect with me :</h2>
 <p align="center">
 <a href="https://linkedin.com/in/imrankabir71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/imrankabir71" height="30" width="40" /></a>
 <a href="https://instagram.com/1mran_71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1mran_71" height="30" width="40" /></a>
@@ -32,7 +39,7 @@
 
 
 
-<h2 align="center">💻 Tech Stack </h2>
+<h2 align="center">💻 Tech Stack :</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
