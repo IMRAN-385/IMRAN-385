@@ -16,10 +16,10 @@
 - 🌱 I’m currently learning **React JS, Next JS**  
 - 🔭 I’m currently working on :
      
-       • Digitools 
+       • Digitool
        • Git Issue Tracker
-       • Job Tracker 
-- 💬 Ask me about **HTML , CSS (Tailwind) , JavaScript**  
+       • Job Tracker
+- 💬 Ask me about **HTML , CSS (Tailwind) , JavaScript , React**  
 - 📫 How to reach me: **imranhimel385@gmail.com**
 
     </td>
