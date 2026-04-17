@@ -30,17 +30,15 @@
 </table>
 
 <h2 align="center">📱Connect with me :</h2>
-<p align="center" style="padding: 10px; border-radius: 8px;">
+<p align="center">
   <a href="https://linkedin.com/in/imrankabir71" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
-  
   <a href="https://instagram.com/1mran_71" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
   </a>
-  
   <a href="https://discord.gg/xyro71" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" width="50" />
+    <img src="https://skillicons.dev/icons?i=discord" height="50" />
   </a>
 </p>
 
