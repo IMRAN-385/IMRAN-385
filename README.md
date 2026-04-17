@@ -30,7 +30,7 @@
 </table>
 
 <h2 align="center">📱Connect with me :</h2>
-<p align="center">
+<p align="center flex">
 <a href="https://linkedin.com/in/imrankabir71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/imrankabir71" height="30" width="40" /></a>
 <a href="https://instagram.com/1mran_71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1mran_71" height="30" width="40" /></a>
 <a href="https://discord.gg/xyro71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xyro71" height="40" width="50" /></a>
